@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Understanding React Hooks: A Deep Dive",
-    "author": "Sarah Chen",
+    "author": "Prince Kouamé",
     "date": "2025-03-15",
     "excerpt": "Explore the power of React Hooks and how they revolutionized functional components in modern React development.",
     "tags": ["React", "JavaScript", "Hooks"],
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "title": "TypeScript Best Practices for 2025",
-    "author": "Michael Rodriguez",
+    "author": "Michael Gondo",
     "date": "2025-03-10",
     "excerpt": "Learn the essential TypeScript patterns and practices that will make your code more maintainable and type-safe.",
     "tags": ["TypeScript", "Best Practices", "JavaScript"],
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "title": "Building Scalable CSS Architecture",
-    "author": "Emma Watson",
+    "author": "Emma Koffi",
     "date": "2025-03-05",
     "excerpt": "Discover how to structure your CSS for large-scale applications using modern methodologies and tools.",
     "tags": ["CSS", "Architecture", "Frontend"],
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "title": "Mastering Async JavaScript",
-    "author": "David Kim",
+    "author": "David Baily",
     "date": "2025-02-28",
     "excerpt": "From callbacks to async/await, learn how to handle asynchronous operations in JavaScript effectively.",
     "tags": ["JavaScript", "Async", "Promises"],
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "title": "Web Performance Optimization Techniques",
-    "author": "Lisa Anderson",
+    "author": "Miriame Sanogo",
     "date": "2025-02-20",
     "excerpt": "Practical strategies to make your web applications faster and more efficient, from loading to runtime performance.",
     "tags": ["Performance", "Optimization", "Web Development"],
